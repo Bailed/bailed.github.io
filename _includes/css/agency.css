@@ -12,6 +12,12 @@ body {
 
 .text-muted {
     color: #777;
+    text-align:justify;
+}
+
+.text-muted2 {
+    color: #777;
+    text-align:center;
 }
 
 .text-primary {
@@ -175,9 +181,14 @@ fieldset[disabled] .btn-xl.active {
     background-color: #222;
 }
 
-.navbar-default .navbar-brand {
+.navbar-default {
     font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.color.primary }};
+}
+
+.navbar-brand {
+    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    color: #FFFFFFF;
 }
 
 .navbar-default .navbar-brand:hover,
