@@ -356,6 +356,7 @@ section h3.section-subheading {
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
+    color: #fff;
 }
 
 @media(min-width:768px) {
@@ -389,7 +390,7 @@ section h3.section-subheading {
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
-    background: rgba(254,209,54,.9); /* Fallback when no plugin support */
+    background: rgba(44, 62, 80,.9); /* Fallback when no plugin support */
     background: rgba(52,73,94, .9);
 }
 
