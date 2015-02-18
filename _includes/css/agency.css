@@ -16,8 +16,7 @@ body {
 }
 
 .text-muted2 {
-    color: #777;
-    text-align:center;
+   text-align:center;
 }
 
 .text-primary {
@@ -349,7 +348,7 @@ section h3.section-subheading {
     font-size: 16px;
     font-style: italic;
     font-weight: 400;
-    color: #fff;
+    color: grey;
 }
 
 @media(min-width:768px) {
