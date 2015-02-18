@@ -12,6 +12,7 @@ body {
 
 .text-muted {
     color: #777;
+    text-align:justify;
 }
 
 .text-muted2 {
@@ -352,7 +353,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 50px 0;
+        padding: 150px 0;
     }
 }
 
@@ -871,9 +872,4 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
-}
-
-.bg-blue {
-    text-align:center;
-    background-color: #{{ site.color.primary}};
 }
