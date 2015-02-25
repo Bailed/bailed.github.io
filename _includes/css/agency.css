@@ -730,8 +730,9 @@ section#contact .text-danger {
 }
 
 footer {
-    padding: 25px 0;
     text-align: center;
+    background-color: #000;
+    color: #fff;
 }
 
 footer span.copyright {
@@ -749,17 +750,21 @@ footer ul.quicklinks {
     line-height: 40px;
 }
 
+footer ul.quicklinks li a {
+    color: #fff;
+}
+
 ul.social-buttons {
     margin-bottom: 0;
 }
 
 ul.social-buttons li a {
     display: block;
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     border-radius: 100%;
     font-size: 20px;
-    line-height: 40px;
+    line-height: 30px;
     outline: 0;
     color: #fff;
     background-color: #222;
@@ -872,4 +877,22 @@ img::-moz-selection {
 
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
+}
+
+.top-buffer {
+    margin-top: 40px;
+}
+
+#portfolio {
+    margin-top: -10em;
+}
+
+.footerbar {
+    font-size: 0.9em;
+    padding-top: 5px;
+}
+
+.footerwidget {
+    background-color: rgb(34, 49, 63);
+    height: 250px;
 }
