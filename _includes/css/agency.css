@@ -896,3 +896,52 @@ body {
     background-color: rgb(34, 49, 63);
     height: 250px;
 }
+
+.top-buffer {
+    margin-top: 4em;
+}
+
+.fa-rec {
+    height: 4em;
+    width: 100%;
+    text-align: left;
+    padding-top: 1em;
+    padding-bottom: 1em; 
+    background-color: #{{ site.color.primary}};   
+}
+
+.fa-rec i {
+    text-align: left;
+    margin-left: 1em;
+}
+
+.fa-rec h4 {
+    color : #fff;
+    text-align: right;
+    margin-top: .3em;
+    margin-right: 1em;
+}
+
+div.header-serv {
+    background: url(../img/header-bg-5.jpg);
+    width:100%;
+    height:15em;
+    margin-top: -5em;
+    margin-bottom: -10em;
+    background-repeat:no-repeat;
+    background-position:50% 30%;
+    background-size: 100%;
+    opacity: 0.6;
+}
+
+.col-lg-12 h2.my-text-primary {
+    color: #{{ size.color.primary }};
+    font-size: 2em;
+    text-align: left;
+}
+
+.col-lg-12 h3.my-text-primary {
+    color: #{{ site.color.primary }};
+    font-size: 1.2em;
+    text-align: left;
+}
