@@ -909,6 +909,9 @@ body {
     margin-top: 2em;
 }
 
+.top-buffer-x2 {
+    margin-top: 4em;
+}
 .fa-rec {
     height: 4em;
     width: 100%;
@@ -956,6 +959,21 @@ div.header-serv-2 {
     background-size: 100%;
 }
 
+div.header-serv-3 {
+    background: url(../img/header-bg-6.jpg);
+    background-repeat:no-repeat;
+    background-position:0% 70%;
+    background-size: 100%;
+    opacity: 0.8;
+}
+
+div.header-serv-4 {
+    background: url(../img/header-bg-12.jpg);
+    background-repeat:no-repeat;
+    background-position:50% 35%;
+    background-size: 100%;
+}
+
 .col-lg-12 h2.my-text-primary {
     color: #;
     font-weight: 300;
@@ -970,3 +988,7 @@ div.header-serv-2 {
     font-size: 1.2em;
     text-align: left;
 }
+
+
+::-moz-selection{ color:#fff; background:#34495e; }
+::selection { color:#fff; background:#34495e; }
