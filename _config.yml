@@ -2,9 +2,9 @@ url: http://bailed.github.io
 
 
 # Site settings
-title: LeNom.
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: MB.
+email: contact@maxime-besson.fr
+description: "Développeur web et conférences scolaires à Angers dans le Maine et Loire. Sites vitrines, boutiques en ligne, référencement naturel (SEO), webmarketing et conférences pour les collèges, lycées, universités."
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -16,32 +16,15 @@ color:
 people:
 - name: Maxime B
   pic: 2
-  position: Développeur web - Conférencier
+  position: Développeur web - Conférences scolaires
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+  - title: linkedin
+    url: http://fr.linkedin.com/in/bessonmaxime
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - title: linkedin
+    url: http://fr.linkedin.com/in/bessonmaxime
 
 # Build settings
 markdown: kramdown
