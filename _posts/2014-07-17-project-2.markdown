@@ -1,15 +1,17 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Office Communautaire des Variétés Végétales
+subtitle: Mise à jour CMS
 layout: default
 modal-id: 2
 date: 2014-07-17
-img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+img: cpvo.png
+thumbnail: cpvo-thumb.png
+alt: Community Plant Variety Office - Stage
+project-date: Juin 2014
+client: Community Plant Variety Office
+site : http://www.cpvo.europa.eu/main/
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+site-name : CPVO
+description: Mise à jour du CMS Joomla ainsi que de tous ses composants. Etude d'affichage de données grâce à AngularJS.
 
 ---

@@ -1,15 +1,17 @@
 ---
-title: Golden
-subtitle: Website Design
+title: IUT Linked Data
+subtitle: Création de site - Design - Boostrap
 layout: default
 modal-id: 4
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 2015-01-10
+img: iutld.png
+thumbnail: iutld-thumb.png
+alt: IUT LD Projet étudiant de Linked Data
+project-date: Janvier 2015
+client: IUT Linked Data
+category: Webdesign
+site : http://maxime-besson/IUT_LD
+site-name : IUT LD
+description: <b>Projet en cours</b> de développement d'un site basé sur des données liées (Linked Data). Je m'occupe du développement front-end, du design du site.
 
 ---

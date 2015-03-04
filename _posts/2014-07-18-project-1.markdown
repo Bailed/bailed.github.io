@@ -1,15 +1,17 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Quadr'innov
+subtitle: Création site internet - Wordpress
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+date: 2014-04-10
+img: quadrinnov.png
+thumbnail: quadrinnov-thumbnail.png
+alt: Client Quadr'innov
+project-date: Avril 2014
+client: Quadr'innov
 category: Web Development
-description: Lorem () ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+site : http://quadrinnov.com
+site-name : Quadr'innov
+description: Création d'un site web basé sur le CMS Wordpress pour la société de Conseil et d'Innovation Quadr'innov basée à Ancenis.
 
 ---

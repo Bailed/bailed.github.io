@@ -1,15 +1,17 @@
 ---
-title: Golden
-subtitle: Website Design
+title: Ecole Supérieure d'Agriculture
+subtitle: Conférence WebMarketing
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+date: 2014-06-16
+img: esa.png
+thumbnail: esa-thumb.png
+alt: Conférence webmarketing pour l'école supérieure d'agriculture
+project-date: Juin 2014
+client: Etudiant de l'ESA.
+category: Conférence webmarketing
+site : http://www.groupe-esa.com/ecole-agricole-groupe-esa-ecole-superieure-d-agriculture-2.kjsp?RH=GESA
+site-name : ESA
+description: Conférence webmarketing pour le projet d'étudiants de l'école supérieur d'agriculture devant les éleveurs de "L'Eleveur & l'Oiseau".
 
 ---
